@@ -1,9 +1,16 @@
-About Me
-Alvin Nieves
-alvinn4392@hstat.org
-High School of Telecommunications Arts and Technology Alvin Nieves was born in NY
+## About Me
+#### _Alvin Nieves_
+[Portfolio](https://sites.google.com/a/hstat.org/alvinn4392sep11/)
 
-SCHEDULE
+**Contact Information**: alvinn4392@hstat.org
+
+**Education**: High School of Telecommunications Arts and Technology 
+
+**Biography**: A junior in high school, Alvin Nieves was born in Brooklyn, NY and is of Puerto Rican decent.
+
+
+
+###### SCHEDULE
 1. Math
 2. Science
 3. English
@@ -12,3 +19,8 @@ SCHEDULE
 6. Spanish
 7. Service
 8. Lunch
+
+Afterschool activities:
+* Baseball
+* Bowling 
+
