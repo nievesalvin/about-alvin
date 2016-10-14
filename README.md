@@ -8,17 +8,17 @@
 
 **Biography**: A junior in high school, Alvin Nieves was born in Brooklyn, NY and is of Puerto Rican decent.
 
-
-
 ###### SCHEDULE
-1. Math
-2. Science
+1. Trig
+2. Earth Science
 3. English
-4. History
-5. SEP
-6. Spanish
+4. US History
+5. Software Engineering 
+6. AP Spanish
 7. Service
-8. Lunch
+8. Lunch 
+
+
 
 Afterschool activities:
 * Baseball
