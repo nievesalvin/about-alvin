@@ -6,7 +6,8 @@
 
 **Education**: High School of Telecommunications Arts and Technology 
 
-**Biography**: A junior in high school, Alvin Nieves was born in Brooklyn, NY and is of Puerto Rican and Salvadoran decent. 
+**Biography**: A junior in high school, Alvin Nieves was born in Brooklyn, NY and is of Puerto Rican and Salvadoran decent.   
+
 
 Before attending the Highschool of Telecommunications Arts and Technology, he attended New Voices Middle School.
 
