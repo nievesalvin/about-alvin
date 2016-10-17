@@ -25,5 +25,5 @@ Before attending the Highschool of Telecommunications Arts and Technology, he at
 
 Afterschool activities:
 * Baseball
-* Bowling 
+* Bowling
 
